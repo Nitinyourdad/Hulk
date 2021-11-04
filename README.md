@@ -15,7 +15,7 @@ SurturBot made by @MAFIARISHABH. Supported by respective hellbot owner @Kraken_T
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/surturbot_Support">☢️JOIN 𝗦𝗨𝗥𝗧𝗨𝗥BOT SUPPORT☢️</a></h2>
 
 </details>
 
