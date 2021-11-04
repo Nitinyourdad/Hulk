@@ -1,1 +1,1 @@
-worker: bash SURTUR-BOT
+worker: bash SURTURBOT
