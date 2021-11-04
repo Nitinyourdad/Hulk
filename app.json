@@ -23,8 +23,8 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "description": "Fill your Full name or Username like @MAFIARISHABH. By default it is Surtur User",
+      "value": "@surturbot_Support",
       "required": false
     },
     "ABUSE": {
