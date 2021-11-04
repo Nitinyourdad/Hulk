@@ -1,16 +1,12 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-BOT/dashboard)
-[![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/H1M4N5HU0P/MAFIA-BOT)
-[![HitCount](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT.svg)](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
 
 
 
-# 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
+
+# 𝚃𝙷𝙴 𝗦𝗨𝗥𝗧𝗨𝗥𝗕𝗢𝗧
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
+SurturBot made by @MAFIARISHABH. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/surturbot_Support THANKS FOR VISITING OUR REPO💖
+[![SURTURBOT LOGO](https://telegra.ph/file/852a8de1eaa17e61867c2.jpg)](https://t.me/surturbot_Support)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -52,8 +48,8 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/H1M4N5HU0P/MAFIA-BOT.git
-cd MAFIA-BOT
+git clone https://github.com/mafiarishabh/SURTUR-BOT.git
+cd SURTUR-BOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -110,9 +106,9 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 MAFIARISHABH
 
-Poject [MAFIABOT](https://github.com/H1M4N5HU0P/MAFIA-BOT) is free software: you can redistribute it and/or modify
+Poject [SURTURBOT](https://github.com/mafiarishabh/SURTUR-BOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
