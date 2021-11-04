@@ -43,7 +43,7 @@ async def update_requirements(main , test):
     try:
         for i in a:
             await runcmd(f"pip install {i}")
-            print(f"Succesfully installed {i}")
+            print(f"Succesfulf"surturbot installed {i}")
     except Exception as e:
         print(f"Error while installing requirments {str(e)}")
 
