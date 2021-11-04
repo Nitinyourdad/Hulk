@@ -4,19 +4,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $MAFIA_REPO == "mafiabot" ]]
+    if [[ $SURTUR_REPO == "surturbot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL21hZmlhcmlzaGFiaC9zdXJ0dXJ1c2VyLWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-    elif [[ $MAFIA_REPO == "MAFIABOT" ]]
+    elif [[ $SURTUR_REPO == "SURTURBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL21hZmlhcmlzaGFiaC9zdXJ0dXJ1c2VyLWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-    elif [[ $MAFIA_REPO =~ $regex ]]
+    elif [[ $SURTUR_REPO =~ $regex ]]
     then
-        if [[ $MAFIA_REPO_BRANCH ]]
+        if [[ $SURTUR_REPO_BRANCH ]]
         then
-            echo "${MAFIA_REPO}/archive/${MAFIA_REPO_BRANCH}.zip"
+            echo "${SURTUR_REPO}/archive/${SURTUR_REPO_BRANCH}.zip"
         else
-            echo "${MAFIA_REPO}/archive/master.zip"
+            echo "${SURTUR_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL21hZmlhcmlzaGFiaC9zdXJ0dXJ1c2VyLWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
@@ -36,13 +36,9 @@ _set_bot () {
     echo "  Cleaning ..."
     rm -rf "$zippath"
     sleep 5
-    cd $MAFIAPATH
-    echo "    Starting MafiaBot    "
-    echo "
-                          ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
-                          ║║║║║╔╗║═╦╩║║╣╔╗║╔╗║║╠╗╔╝
-                          ║║║║║╠╣║╔╝╔║║╣╠╣║╔╗║║║║║
-                          ╚╩═╩╩╝╚╩╝─╚══╩╝╚╩══╩═╝╚╝
+    cd $SURTURPATH
+    echo "    Starting SurturBot    "
+    echo "SURTURBOT
     "
 
     python3 ./setup/updater.py ./requirements.txt requirements.txt
