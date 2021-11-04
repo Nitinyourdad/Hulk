@@ -1,1 +1,1 @@
-worker: bash mafiabot
+worker: bash SURTUR-BOT
