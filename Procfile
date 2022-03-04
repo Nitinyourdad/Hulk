@@ -1,1 +1,1 @@
-worker: bash hulk
+worker: bash Hulk
