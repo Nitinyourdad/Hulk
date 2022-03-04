@@ -6,10 +6,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $Nitinyourdad_REPO == "hulk" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL21hZmlhcmlzaGFiaC9zdXJ0dXJ1c2VyLWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL05pdGlueW91cmRhZC9odWxrdXNlcmJvdC9hcmNoaXZlL2h1bGsuemlw" | base64 -d
     elif [[ $Nitinyourdad_REPO == "hulk" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL21hZmlhcmlzaGFiaC9zdXJ0dXJ1c2VyLWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL05pdGlueW91cmRhZC9odWxrdXNlcmJvdC9hcmNoaXZlL2h1bGsuemlw" | base64 -d
     elif [[ $Nitinyourdad_REPO =~ $regex ]]
     then
         if [[ $Nitinyourdad_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${Nitinyourdad_REPO}/archive/Hulk.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL21hZmlhcmlzaGFiaC9zdXJ0dXJ1c2VyLWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL05pdGlueW91cmRhZC9odWxrdXNlcmJvdC9hcmNoaXZlL2h1bGsuemlw" | base64 -d
     fi
 }
 
