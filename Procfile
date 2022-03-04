@@ -1,1 +1,1 @@
-worker: bash SURTURBOT
+worker: bash hulk
