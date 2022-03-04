@@ -2,11 +2,11 @@
 
 
 
-# 𝚃𝙷𝙴 𝗦𝗨𝗥𝗧𝗨𝗥𝗕𝗢𝗧
+# 𝚃𝙷𝙴 Hulk 
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-SurturBot made by @MAFIARISHABH. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/surturbot_Support THANKS FOR VISITING OUR REPO💖
-[![SURTURBOT LOGO](https://telegra.ph/file/852a8de1eaa17e61867c2.jpg)](https://t.me/surturbot_Support)
+Hulk made by nitin. Supported by respective rishabh. Join for update related info channel and group :- https://t.me/surturbot_Support THANKS FOR VISITING OUR REPO💖
+
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -30,7 +30,7 @@ SurturBot made by @MAFIARISHABH. Supported by respective hellbot owner @Kraken_T
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmafiarishabh%2FSURTUR-BOT&template=https%3A%2F%2Fgithub.com%2Fmafiarishabh%2FSURTUR-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fnitinyourdad%2Fhulk&template=https%3A%2F%2Fgithub.com%2Fnitinyourdad%2Fhulk" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
 </details>
 
