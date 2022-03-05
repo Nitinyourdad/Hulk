@@ -1,5 +1,5 @@
 #!/bin/bash
-'''this bot maked by fun dont wrong use'''
+
 
 _get_repolink () {
     local regex
